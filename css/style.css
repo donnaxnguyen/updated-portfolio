@@ -228,10 +228,11 @@ nav ul a:hover {
 #about {
 	padding: 100px 0 50px 0;
 	background-color: #F5F5F5;
+	text-align: center;
 }
 
-/* education */
-#education {
+/* resume */
+#resume {
 	padding: 100px 0 100px 0;
 }
 
