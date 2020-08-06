@@ -7,10 +7,10 @@ Updated Portfolio Page
   * Project 2 - MiddleGround 
 
 * And at least four exemplary homework assignments:
-  * Updated Portfolio
-  * Planner Homework
+  * Daily Planner
+  * Cat Quiz
   * Note Taker
-  * Code Quiz
+  * Weather Dashboard
 
 * Update GitHub profile with pinned repositories featuring projects 1 and 2 and four exemplary assignments. 
 
