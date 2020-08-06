@@ -2,7 +2,14 @@
 Updated Portfolio Page
 
 ## Requirements
-* Updated portfolio featuring Project 1 - SpaceForce and Project 2 - MiddleGround and at least four exemplary homework assignments - Updated Portfolio, Planner Homework, Note Taker, and Code Quiz
+* Updated Portfolio featuring: 
+ * Project 1 - SpaceForce 
+ * Project 2 - MiddleGround 
+* And at least four exemplary homework assignments:
+ * Updated Portfolio
+ * Planner Homework
+ * Note Taker
+ * Code Quiz
 * Update GitHub profile with pinned repositories featuring projects 1 and 2 and four exemplary assignments. 
 * Updated Resume
 * Updated LinkedIn profile
@@ -20,10 +27,10 @@ Updated Portfolio Page
 
 ## Instructions
 
-1. [Updated Portfolio](#updated-portfolio)
-2. [GitHub Profile](#updated-github-profile)
-3. [Updated Resume](#updated-resume)
-4. [Updated LinkedIn](#updated-linkedin)
+1. [Updated Portfolio](#https://donnaxnguyen.github.io/updated-portfolio/)
+2. [GitHub Profile](#https://github.com/donnaxnguyen)
+3. [Updated Resume](#https://github.com/donnaxnguyen/updated-portfolio/blob/master/assets/Resume.pdf)
+4. [Updated LinkedIn](#https://www.linkedin.com/in/donna-nguyen01/)
 
 ### Updated Portfolio
 
@@ -83,7 +90,3 @@ Submit a clear, concise and compelling resume, tailored to the type of job youâ€
 ### Updated LinkedIn Profile 
 
 Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio.
-
-
-## View Updated Portfolio Here
-https://donnaxnguyen.github.io/updated-portfolio/
