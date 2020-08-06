@@ -238,6 +238,7 @@ nav ul a:hover {
 
 /* portfolio */
 #portfolio {
+	text-align: center;
 	padding: 100px 0 100px 0;
 	background-color:  #F5F5F5;
 }
@@ -245,10 +246,12 @@ nav ul a:hover {
 /* contact */
 #contact {
 	padding: 100px 0 100px 0;
+	text-align: center;
 }
 
 /* footer */
 footer {
+	text-align: center;
 	min-height: 70px;
 	padding: 10px 0 10px 0;
 	box-sizing: border-box;
